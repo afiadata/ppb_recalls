@@ -1,21 +1,24 @@
 import os
 import logging
+import argparse
 from typing import List
 
-from langchain.document_loaders import PyPDFLoader
-from langchain.text_splitter import RecursiveCharacterTextSplitter
-from langchain.vectorstores.pgvector import PGVector
-from langchain.embeddings import HuggingFaceEmbeddings
+from tqdm import tqdm
 from dotenv import load_dotenv
-from langchain.docstore.document import Document
+
+from langchain_community.document_loaders import PyPDFLoader
+from langchain.text_splitter import RecursiveCharacterTextSplitter
+from langchain_community.vectorstores.pgvector import PGVector
+from langchain_community.embeddings import HuggingFaceEmbeddings
+from langchain_core.documents import Document
 
 # Setup logging
 logging.basicConfig(level=logging.INFO, format="%(asctime)s [%(levelname)s] %(message)s")
 
-
+# Load environment variables
 load_dotenv()
 
-# Validate
+# Validate 
 required_envs = ["DB_USER", "DB_PASSWORD", "DB_HOST", "DB_PORT", "DB_NAME"]
 missing = [var for var in required_envs if not os.getenv(var)]
 if missing:
@@ -30,6 +33,7 @@ CONNECTION_STRING = (
 embeddings = HuggingFaceEmbeddings(model_name="sentence-transformers/all-mpnet-base-v2")
 
 def load_and_split_pdf(file_path: str) -> List[Document]:
+    """Load a PDF file and split it into chunks."""
     loader = PyPDFLoader(file_path)
     docs = loader.load()
 
@@ -41,7 +45,9 @@ def load_and_split_pdf(file_path: str) -> List[Document]:
 
     return chunks
 
+
 def ingest_pdfs_to_pgvector(pdf_folder: str) -> None:
+    """Ingest PDF documents from a folder into PGVector."""
     if not os.path.exists(pdf_folder):
         raise FileNotFoundError(f"PDF folder not found: {pdf_folder}")
 
@@ -51,9 +57,10 @@ def ingest_pdfs_to_pgvector(pdf_folder: str) -> None:
         return
 
     all_chunks = []
-    for filename in pdf_files:
+    logging.info(f"Found {len(pdf_files)} PDF files in {pdf_folder}")
+
+    for filename in tqdm(pdf_files, desc="Processing PDFs"):
         try:
-            logging.info(f"Processing {filename}")
             chunks = load_and_split_pdf(os.path.join(pdf_folder, filename))
             all_chunks.extend(chunks)
         except Exception as e:
@@ -64,17 +71,29 @@ def ingest_pdfs_to_pgvector(pdf_folder: str) -> None:
         return
 
     logging.info(f"Ingesting {len(all_chunks)} chunks into the vector store...")
-    PGVector.from_documents(
-        documents=all_chunks,
-        embeddings=embeddings,
-        connection_string=CONNECTION_STRING,
-        collection_name="recalls_pdf_chunks",
-        collection_config={"distance_strategy": "cosine"}  # Optional
-    )
-    logging.info("Ingestion complete.")
+    try:
+        PGVector.from_documents(
+            documents=all_chunks,
+            embedding=embeddings,
+            connection_string=CONNECTION_STRING,
+            collection_name="recalls_pdf_chunks",
+            collection_config={"distance_strategy": "COSINE"}
+        )
+        logging.info("Ingestion complete.")
+    except Exception as e:
+        logging.error(f"Error during ingestion to PGVector: {e}")
 
 if __name__ == "__main__":
-    ingest_pdfs_to_pgvector(pdf_folder="./data/recalls_pdf")
+    parser = argparse.ArgumentParser(description="Ingest PDF documents into PGVector.")
+    parser.add_argument(
+        "--folder",
+        type=str,
+        required=True,
+        help="Path to the folder containing PDF files"
+    )
+    args = parser.parse_args()
+
+    ingest_pdfs_to_pgvector(pdf_folder=args.folder) 
 
     
 
