@@ -1,0 +1,170 @@
+year,product_name,class,manufacturer,reason
+2016,Biomol tablets,analgesics,Biodeal Laboratories Ltd,Color change and moulding
+2016,Beta gripe water,water,Beta Healthcare International,the batches had problems of floculation
+2016,OPVERO,vaccine,Sanofi Aventis,To replace trivalent with bivalent OPV
+2017,Clopidogrel with Aspirin,analgesics,Unicure Remedies,"The product failed dissolution test, assay test and weight variation"
+2017,Dulcolax 5mg,laxative,Boehringer,Detected Out of specification for dissolution test
+2017,Asmol 500mg,beta-2 adrenergic receptor�,Astra Lifecare Ltd,Moulding of tablets
+2017,Glucose 5D,glucose,Shree Krishna Keshav Lab Ltd,Particulate matter
+2017,Claxy 228.5mg,antibiotic,Theon Pharmaceuticals ltd,Color change
+2017,Rhoclone 300mcg,immunising agent,Bharat Serums and Vaccines Ltd,"Product lacks proper labelling, batch number, DOM, DOE"
+2017,Festate tablet,iron products,Westcoast Pharmaceutical works,Color change and appearance of dark spots on tablets
+2017,Upacof Syrup,,Universal Corporation Ltd,The product has an OOS result for Promethazine content
+2017,Erocin Powder for reconstitution,,Laboratory and Allied Ltd,"Unpleasant taste and odor, lumping"
+2017,Dinac gel,,Universal Corporation Ltd,"The product failed to comply with assay, description, and related substances"
+2017,Methomine S,,Universal Corporation Ltd,Color change
+2018,Altacef Suspension,,Glenmark Pharmaceuticals,Voluntary recall
+2018,Metrowin 200,,Shandong Xier Kangtai,Color change
+2018,Ventil 4mg,,Biodeal Laboratories Ltd,The product is reported to have inconsistent colouration and dark brown spots
+2018,Moods Ultrathin Condoms,,HLL Lifecare Ltd,The batch failed Freedom from holes test
+2018,Zeosorb,,Bayer AG Leverkusen,Voluntary withdrawall
+2018,Safil and Novosyne sutures,,B. Braun Surgical S.A,Voluntary recall
+2018,Fiesta Stamina,,Cupid Ltd,batch failed freedom from holes test
+2018,Fiesta Big Black,,Cupid Ltd,batch failed thickness test
+2018,Fluphenazine Decanoate injection,,Rotexmedica Germany,Voluntary recall due to OOS for the assay test
+2018,Zenagent,,Laborate Pharmaceuticals,Adverse Event following adminstartion
+2018,Elymox 125mg/5ml,,Elys Chemical Industries Ltd,the batch failed Assay test
+2018,Labmox 125 Oral suspension,,Laborate Pharmaceuticals,The batch failed Assay test
+2018,Strox 500mg,,Universal Corporation Ltd,The batch failed dissolution test
+2018,Rough rider studded,,Ansell Healthcare,The batch failed width test
+2018,Acepril 5mg,,Laboratory and Allied Ltd,the batches failed Dissolution test
+2018,Parol Oral Suspension,,Atabay Ilac,the batch failed Assay test
+2018,Wombit tablet,,Biodeal Laboratories Ltd,Failed dissolution testing
+2018,Almex tablets,,Square Pharmaceuticals,The batch failed dissolution test
+2019,Fiesta stamina,,DKT,Failed freedom from holes test
+2019,Fiesta Big Black,,DKT,Failed thickness test
+2019,Jotonol 500mg,,Benmed Pharmaceuticals,The batch failed dissolution test
+2019,Zegra 50mg,,Benmed Pharmaceuticals,"The batch failed assay test, dissolution test and uniformity of weight"
+2019,Cipcina tablet,,Shanxi Xinyitong Pharmaceutical Co. Ltd,Failed assay test
+2019,ABZ tablet,,Indoco remedies,the batches failed Dissolution test
+2019,Trogyl tablets,,Biodeal Laboratories Ltd,Black spots on the tablets
+2019,Silvadine cream 1%,,Biodeal Laboratories Ltd,Voluntary recall following a PPB notification of market complaint on PQMP
+2019,Levonogets 0.75mg,,"Olive Healthcare, India","The batch failed dissolution test, weight variation and Assay"
+2019,Sure lubricated condoms dotted,,"HLL Lifecare,",Out of specification for freedom from holes and quantity of lubricant
+2019,Sure lubricated condoms dotted,,Innolatex Thailand Ltd,Out of specification for freedom from holes and quantity of lubricant
+2019,Toramin syrup,,Comet Healthcare,Color change
+2019,Wombit tablet,,Biodeal Laboratories Ltd,Failed dissolution testing
+2019,Atazor-R,,Emcure Pharmaceuticals Ltd,due to an Out of trend result for Hydroxy ritonavir impurity at 12 month stability time point
+2019,Atazor-R,,Emcure Pharmaceuticals Ltd,Product was out of trend at 12 months when stored at 30/75% RH
+2019,Atazor-R,,Emcure Pharmaceuticals Ltd,"Product was Out of trend results at 12 months when stored at 30/75% RH. Recall was specific to 500,000 pack of 30s supplied to NASCOP through KEMSA"
+2019,Kemoxyl DT 250mg,,Laboratory and Allied Ltd,The batch failed dissolution test
+2019,Silvamax cream,,Universal Corporation Ltd,The batch reported stability falure for CHX content
+2019,Alben oral suspension,,GSK,The batch failed Assay test
+2020,Unibrol 250mg tablets,,Universal Corporation Ltd,Change in tablet appearance and incomplete pack
+2020,Kenazole cream,,Dawa Ltd,Incomplete pack
+2020,Dolac 30,,Cadilla Pharmaceuticals,Voluntary recall due to Incorrect labeling
+2020,Ascorbic acid,,Dawa Ltd,"Color change, recalled by rwandan FDA"
+2020,Asmol tablet,,Opera Pharmaceuticals-LTR,Tablets are reported as molding and turning black
+2020,8-0  Blue twisted silk suture,,Johnson and Johnson,Voluntary recall
+2020,Microplas plasmafilter,,Bellco,A Plasma filter is used instead of a hemofilter
+2020,Deep heat patch,,The metholatum company UK,Therapeutic ineffectiveness
+2020,Allucid Plus,,Biodeal Laboratories Ltd,Voluntary recall following visible particles reports
+2020,Triohist syrup,,Laboratory and Allied Ltd,Color change
+2020,Magnocid Mixture,,Biodeal Laboratories Ltd,Voluntary recall following color change
+2020,Dawasprin 300,,Dawa Ltd,broken tablets
+2020,Dawapraz 20,,Dawa Ltd,The product failed dissolution test
+2020,Atracurium,,Celon laboratories Ltd,Therapeutic ineffectiveness
+2020,Lamprene 100mg,,Norvatis,Clamping and lose of coat color
+2020,Warfarin 5mg,,Njimia Pharmaceuticals,Color change and hard to break
+2020,Rinacet 10mg,,Dawa Ltd,Voluntary recall due to failure to meet labeling requirements
+2021,"Losar-Denk,",,Denk Pharma,Discovery of 4-chlor-azidomethyltetrazole
+2021,Co-losar Denk,,Denk Pharma,Discovery of 4-chlor-azidomethyltetrazole
+2021,Tanzol 400mg,,Shalina Healthcare,The product failed dissolution test
+2021,Dazole 1%,,Dawa Ltd,Leaking contents
+2021,Totomol suspension,,Laboratory and Allied Ltd,Voluntary recall following crystallization
+2021,Carbocysten-promethazine syrup,,Dawa Ltd,Voluntary recall due to fail of assay of FUST
+2021,Frusemide 40mg,,Dawa Ltd,voluntary recall because of soft tablets
+2021,Zolex 400,,,The product failed dissolution test
+2021,Biotrim suspension,,Biodeal Laboratories Ltd,Color change
+2021,Irbesatan finished products,,Sanofi Aventis,Potential presence of GTI2
+2022,Famcal tablets,,"Indoco Remedies Limited, India",Out of specification results on assay test identified during stability studies
+2022,Umbicare gel,,"Indoco Remedies Limited, India",Out Of Specification results on related substances tests
+2022,Tenofovir Disoproxil Fumarate/ Lamivudine/ Dolutegravir,,"Universal Corporation Limited, Kenya","Discoloration of induction seal, broken tablets and black spots on the tablets"
+2022,Biodine Mouth Gargle,,"Biodeal Laboratories Ltd, Kenya",Change of color to colorless
+2022,Rocephin Ig Injection,,"F. Hoffmann-La Roche Ltd, Kaiseraugst",Detection of pinholes in 10 mL Water for Injection (WFI) ampoules
+2022,EEATM Auto SutureTM Circular Stapler with DST SeriesTM Technology 25mm,,"Covidien llc 15 Hampshire Street Mansfield, USA","A complaint was reported as “Staples Did Not Deploy”. According to the reporter, during laparoscopic procedure the circular stapler was able to fire, but the staples did not deploy when attempting to staple a small bowel segment to the gastric pouch."
+2022,Dawaflox DPS suspension 100ml,,Dawa Lifesciences Ltd,Failure of assay identified during stability studies
+2022,Biodopa tablets,,Biodeal Laboratories Ltd,Discoloration of the tablets
+2022,Vasofix certo G24X19MM yellow,,B.Braun Melsungen AG,"A defect on the injection port that may result in potentially critical clinical consequences for the patient e.g blood loss, underdosage or delay of therapy. Third party are at risk being inContact with patients fluids."
+2022,Alkar-UR effervescent granule satchets,,"National Pharmaceutical Industries Co (SAOG) Muscat, Sultanate of Oman",Sachets bloated and powder agglomerated
+2022,Pregsmile tablets,,"Corona Remedies Pvt.Ltd, India",Mix up (found to contain blisters of Rosuvastatin)
+2023,Nycodeal 30ml,,"Biodeal Laboratories Ltd, Kenya","During routine market surveillance activities, an Out Of Specification (OOS) result of 81.7% was observed in the assay test, with the specified limits ranging from 95.0% to 120.0% of the stated amount."
+2023,Lasideal Tablets,,"Biodeal Laboratories Ltd, Kenya",Black Spots on the tablets
+2023,Enril 5,,"Prism Life Sciences LTD, India",Out Of Specification (OOS) results following routine market surveillance activities
+2023,Beeclav 457mg Suspension,,"Prism Life Sciences LTD, India",Color change to brown after reconstitution
+2023,Rapiclav 312.5 DT,,"IPCA laboratories, India",Color change of tablets
+2023,Oralex C Mouthwash,,"Curis Lifesciences PVT LTD, India",Out Of Specification (OOS) results following routine market surveillance activities
+2023,Trimoxol,,"Dawa life sciences, Kenya",Market Complaints of bitter taste
+2023,Tamedol Suspension,,"Biopharma LTD, Kenya",Failure to meet prescribed market authorization requirements
+2023,Klincord Solution,,"West Coast Pharmaceuticals, India",The assay of the active ingredient in the product may likely drop below the specifications of 95-105% based on stability data
+2023,DTO,,"Coral Lab Ltd, India",Change in color
+2023,Mesporin,,"Labestfal Almiro Laboratories S.A., Portugal",Visible particles in reconstituted powder of the product
+2023,Denk-Air Junior,,"Denk Pharma GmbH & Co. KG,Germany",Out of specification result in ongoing stability study
+2023,Normnil Tablets,,"Dawa life sciences, Kenya","The tablets exhibited the following issues: the appearance of mold-like dots, molding, cracking, the presence of brownish dots, and a change in color."
+2023,Fluconazole Tablets,,"Universal Corporation Limited, Kenya","The pink tablets displayed white discoloration, while both the PVC material and unit box exhibited dark stains."
+2023,Dopamac Tablets,,Macleods pharmaceuticals Ltd,Cracking of tablet coating and dark spots on the tablets
+2023,Cosatrim DS,,"Cosmos Ltd, Kenya",Cracking along the tablet score line
+2023,Clindar B Capsules,,Wallace Pharmaceuticals Ltd,"The capsules crumbled and broke due to a defect in the primary packaging, which caused them to stick to the blister pack"
+2023,Diprofos 7mg/ml 2ML AMP MEA,,Schering Plough Labo N.V.,Use of a potentially corroded component in the manufacture of the products
+2024,Olworm Suspension,,"Biopharma Ltd, Kenya","Out of Specification (OOS) on pH, Total Aerobic Microbial Count and Total Combined Yeasts and Moulds Count."
+2024,Pharmasal Spray,,"Qingyuan Latop Fine Chemicals Limited, China",Leakage of the product from the cans
+2024,Paratal Tablets,,"Laboratory and Allied Limited, Kenya",Dark brown spots on the tablet
+2024,Nurabucaine Injection,,"Farbe Firma, India",Out of Specification (OOS) results on assay for dextrose
+2024,Sigmaflex,,"A1 Globe Sdn. Bhd., Malaysia",Out of Specification (OOS) results on water tightness test
+2024,Phenysod Injection,,"Hiral Laboratories Ltd, India",Formation of a precipitate when mixed with normal saline for infusion.
+2024,Tricohist Expectorant,,"Biodeal Laboratories Ltd, Kenya",OOS results on assay of Diphenhydramine HCl and Promethazine HCl
+2024,Painil Suspension,,"Njimia (K) Ltd, Kenya",Color change from pink to brown
+2024,Flamodip Tablets,,"Medico Remedies Pvt Ltd, India","Mislabeling. The secondary package is labelled as Flamodip-5 (Amlodipine), while the primary package is labelled as Flaminopril-5 (Enalapril)"
+2024,Carvedi-Denk,,Artesan Pharma GmbH & Co. KG,OOS results on dissolution
+2024,Neuropower Forte,,"Hof Pharmaceuticals Ltd, India",Powdering/crumbling of the tablets
+2024,S-Prazo,,"Medico Remedies Limited, India",Mix-up with Donystatin Tablets blisters within some secondary packs
+2024,Rabemac,,"Macleods Pharmaceuticals Limited, India",OOS results on assay
+2024,Efinox 1% Nasal Drops,,"Laboratory & Allied Ltd, Kenya",Mix-up between 0.5% w/v and 1% w/v strengths during the labeling and packing process
+2024,Doximar Capsules,,"Biopharma Ltd, Kenya","OOS results on Assay, Dissolution and Weight Variation"
+2024,Medimol Suspension,,"Medivet Products Ltd, Kenya",OOS results on Assay
+2024,Atravita Injection,,"Vital Healthcare Pvt Limited, India",OOS results on Assay
+2024,Lidocel Injection,,"Systochem Laboratories Ltd, India",Color change to brown
+2024,Painil Suspension,,"Njimia (K) Ltd, Kenya",Color change from Pink to brown
+2024,Caryl Expectorant,,"Biodeal Ltd,Kenya",OOS results on Assay
+2024,AmoxiClav-Denk 1000/125mg powder for oral suspension,,"Denk Pharma GmbH & Co KG, Germany",Visual changes in appearance detected in an Closed stability study
+2024,Curamol Suspension,,"Dawa Life Sciences Ltd, Kenya",Crystallization
+2024,Benylin Pediatric 100 ml Cough Syrup,,"Johnson & Johnson (Pty), South Africa",Safety concerns due to unacceptable high levels of Diethylene glycol
+2024,DTS-Z (Dehydration treatment salts),,"Cosmos Limited, Kenya",Failure in description- change in colour
+2024,MZ-CAL Plus Suspension,,"Enicar Pharmaceuticals Pvt Ltd, India,",Formation of black spots in the suspension
+2024,Azithrosafe Suspension,,"Enicar Pharmaceuticals Pvt Ltd, India",Formation of black spots in the suspension
+2024,Haemaccel 500ml Injection,,"Piramal Pharma Limited, India",Bottle leakages and damage to monocartons
+2024,Izzithree Suspension,,"Biopharma Ltd,Kenya",Less than the required fill volume
+2024,Amitrip Tablets,,"Laboratory & Allied Ltd, Kenya",Capping/Lamination of the tablets
+2024,Chlorpromazine Tablets,,"Laboratory & Allied Ltd, Kenya",Capping/Lamination of the tablets
+2024,Blink Paracetamol,,"Shijiazhuang No.4 Pharmaceutical Ltd, China","Change in color to pale yellow, along with the presence of a white crystalline deposit at the vial neck or seal, suggesting a potential issue with integrity or leakage"
+2024,Diarim Aqueous cream B.P,,"Diarim Enterprises Limited, Kenya",Presence of molds
+2025,Dawaflox DPS,,"Dawa Ltd, Kenya",Failure to comply with assay identified during long-term stability studies
+2025,Stopacid Suspension,,"Dawa Ltd, Kenya",Failure to comply with the release assay limits of Aluminium Hydroxide (95%-105%)
+2025,Medopress Tablets,,"Cosmos Ltd, Kenya",Color change of the tablets
+2025,Oxytocin Injection,,Laborate Pharmaceuticals India Ltd,Failure to comply with the specifications on related substances test
+2025,Topfoliferum Tablets,,"Liaoning Huarui Union Pharmaceutical co. Ltd, China","Color change, with some tablets becoming darker with black particles"
+2025,Betamol Tablets,,"Sphinx Pharmaceuticals Ltd, Kenya",Out-of-Specification results on uniformity of weight
+2025,Medzol Tablets,,"Shanxi Xinyitong Pharmaceutical Co., Ltd, China",Out-of-Specification results on uniformity of weight
+2025,Metrosim Tablets,,Africure Pharmaceuticals India Private Limited,Failure to comply with the specifications on friability test
+2025,Shaltoux Herbal Cough Syrup,,"Gopaldas Visram & Company Limited, India",Market complaints of presence particulate matter in the product
+2025,APC Tablets,,"Biodeal Laboratories Ltd, Kenya",Out-of-Specification results on uniformity of weight
+2025,TBcide,,Kenya Medical Research Institute (KEMRI),Lack of the characteristic color and smell and formation of brown crystals on the product packaging.
+2025,Flurasted 500 Injection,,"Halsted Pharma Private Limited, India",Detection of particles in the product.
+2025,Bisotrol Tablets,,"Ipca Laboratories Limited, India",Out of specification (OOS) results observed in the Related Substances test of Bisotrol – 5 Tablet at 12M on 30C/75% stability conditions.
+2025,S-prazo Capsules,,"Medico Remedies Limited, India","Product mix-up involving S-Prazo Batch No. SPZ404, wherein it was detected and confirmed that a strip of Levofloxacin 500mg tablet was found in a pack of Esomeprazole 40mg Capsules."
+2025,Lumidol Injection,,KamlaAmrut Pharmaceutical LLP India,Color change of the product to black
+2025,Paragen Injection,,KamlaAmrut Pharmaceutical LLP India,Color change of the product to black
+2025,Blink Injection,,KamlaAmrut Pharmaceutical LLP India,Color change of the product to black
+2025,Dawaflox DPS,,"Dawa Ltd, Kenya",Failure to comply with assay identified during long-term stability studies
+2025,Stopacid Suspension,,"Dawa Ltd, Kenya",Failure to comply with the release assay limits of Aluminium Hydroxide (95%-105%)
+2025,Medopress Tablets,,"Cosmos Ltd, Kenya",Color change of the tablets
+2025,Oxytocin Injection,,Laborate Pharmaceuticals India Ltd,Failure to comply with the specifications on related substances test
+2025,Topfoliferum Tablets,,"Liaoning Huarui Union Pharmaceutical co. Ltd, China","Color change, with some tablets becoming darker with black particles"
+2025,Betamol Tablets,,"Sphinx Pharmaceuticals Ltd, Kenya",Out-of-Specification results on uniformity of weight
+2025,Medzol Tablets,,"Shanxi Xinyitong Pharmaceutical Co., Ltd, China",Out-of-Specification results on uniformity of weight
+2025,Metrosim Tablets,,Africure Pharmaceuticals India Private Limited,Failure to comply with the specifications on friability test
+2025,Shaltoux Herbal Cough Syrup,,"Gopaldas Visram & Company Limited, India",Market complaints of presence particulate matter in the product
+2025,APC Tablets,,"Biodeal Laboratories Ltd, Kenya",Out-of-Specification results on uniformity of weight
+2025,TBcide,,Kenya Medical Research Institute (KEMRI),Lack of the characteristic color and smell and formation of brown crystals on the product packaging.
+2025,Flurasted 500 Injection,,"Halsted Pharma Private Limited, India",Detection of particles in the product.
+2025,Bisotrol Tablets,,"Ipca Laboratories Limited, India",Out of specification (OOS) results observed in the Related Substances test of Bisotrol – 5 Tablet at 12M on 30C/75% stability conditions.
