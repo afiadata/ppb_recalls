@@ -1,0 +1,136 @@
+keyword,recall_category
+color change,color change
+colour change,color change
+change in colour,color change
+discoloration,color change
+discolouration,color change
+change of color,color change
+pink to brown,color change
+dark stains,color change
+particles,particulate contamination
+particulate,particulate contamination
+precipitate,particulate contamination
+black spots,particulate contamination
+crystallization,particulate contamination
+visible particles,particulate contamination
+crystals,particulate contamination
+brown crystals,particulate contamination
+out of specification,out of specification
+out-of-specification,out of specification
+oos,out of specification
+failure to comply,out of specification
+failed assay,out of specification
+not within specification,out of specification
+market complaint,market complaints
+complaint,market complaints
+customer complaint,market complaints
+reported,market complaints
+leakage,leakage
+leaking,leakage
+bottle leak,leakage
+sachets bloated,leakage
+can leak,leakage
+pinholes,leakage
+mix up,mix-up
+mix-up,mix-up
+wrong label,mix-up
+mislabeling,mix-up
+wrong blister,mix-up
+wrong packaging,mix-up
+donystatin,mix-up
+cracking,cracking / lamination
+lamination,cracking / lamination
+capping,cracking / lamination
+score line,cracking / lamination
+powdering,cracking / lamination
+crumbling,cracking / lamination
+visual,visual defect
+appearance,visual defect
+white discoloration,visual defect
+black spots,visual defect
+dark brown,visual defect
+mold,microbial contamination
+mould,microbial contamination
+microbial,microbial contamination
+contamination,microbial contamination
+corrosion,corrosion
+corroded,corrosion
+rust,corrosion
+safety concern,safety concern
+toxicity,safety concern
+unacceptable level,safety concern
+diethylene glycol,safety concern
+packaging,packaging defect
+ampoule,packaging defect
+monocarton,packaging defect
+damaged box,packaging defect
+unit box,packaging defect
+blister damage,packaging defect
+bitter taste,taste issue
+strange taste,taste issue
+market authorization,registration issue
+registration,registration issue
+unregistered,registration issue
+voluntary withdrawal,voluntary withdrawal
+withdrawal,voluntary withdrawal
+voluntary recall,voluntary withdrawal
+stability,stability failure
+failed stability,stability failure
+stability testing,stability failure
+degradation,stability failure
+degraded,stability failure
+contaminated solvent,contaminated solvent
+solvent contamination,contaminated solvent
+impurity,impurity issue
+high impurity,impurity issue
+unknown impurity,impurity issue
+physical defect,physical defect
+tablet broken,physical defect
+capsule split,physical defect
+powder clumping,physical defect
+defect,physical defect
+broken,physical defect
+crushed,physical defect
+chipped,physical defect
+missing dose,missing dose
+short fill,missing dose
+underfilled,missing dose
+under fill,missing dose
+labeling,labeling issue
+label,labeling issue
+incorrect labelling,labeling issue
+leaflet,labeling issue
+insert,labeling issue
+expiry date,labeling issue
+wrong dose,dosage issue
+underdose,dosage issue
+overdose,dosage issue
+subpotent,dosage issue
+superpotent,dosage issue
+contamination,contamination
+foreign matter,contamination
+sterility,sterility failure
+non-sterile,sterility failure
+aseptic,sterility failure
+potency,potency issue
+sub-potent,potency issue
+super-potent,potency issue
+adverse reaction,adverse reaction
+adverse event,adverse reaction
+side effect,adverse reaction
+staining,staining
+stains,staining
+disintegration,disintegration failure
+failed disintegration,disintegration failure
+dissolution,dissolution failure
+failed dissolution,dissolution failure
+incorrect ingredient,incorrect ingredient
+wrong ingredient,incorrect ingredient
+missing ingredient,incorrect ingredient
+foreign object,foreign object
+glass,foreign object
+metal,foreign object
+plastic,foreign object
+other,other
+miscellaneous,other
+various,other
