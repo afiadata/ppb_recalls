@@ -8,8 +8,10 @@ dependencies = [
     "beautifulsoup4>=4.13.4",
     "httpx>=0.28.1",
     "ipykernel>=6.30.0",
+    "matplotlib>=3.10.8",
     "mcp[cli]>=1.6.0",
     "pandas>=2.3.1",
     "pdfminer-six>=20250506",
     "requests>=2.32.4",
+    "seaborn>=0.13.2",
 ]

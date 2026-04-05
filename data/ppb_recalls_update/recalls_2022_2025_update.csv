@@ -1,0 +1,45 @@
+year,date,recall_ref,product_name,inn_name,batch_no,manufacturer,reason
+2025,29/12/2025,REC/2025/045,Medopress,Methyldopa 250mg,BPL.221138,"Cosmos Limited, Kenya,",Presence of grey spots on the tablet surface
+2025,01/12/2025,REC/2025/044,Paratal,Paracetamol 500mg,BPL.83730.,"Laboratory and Allied Ltd, Kenya",Brown visible contaminants were observed
+2025,23/12/2025,REC/2025/043,Leocef,Cefalexin powder for oral suspension,88579,"Laboratory and Allied Ltd, Kenya",Brown visible contaminants were observed
+2025,23/12/2025,REC/2025/042,Izzithree,Azithromycin oral suspension,BPL915A,"Biopharma ltd, Kenya",Product did not meet the required specifications for the pH and Assay test
+2025,23/12/2025,REC/2025/041,Chlorpromazine 100,Chlorpromazine Hcl,8331583863,"Laboratory and Allied Ltd, Kenya",The tablets were observed to be capping
+2025,23/12/2025,REC/2025/040,Zolas Suspension,Albendazole 200mg/5ml,250407,"Dinlas Pharma (Africa) Ltd, Kenya",Product did not comply with the required specifications with reference to the deliverable volume test
+2025,23/12/2025,REC/2025/039,Cefuken DS,Cefuroxime Axetil for Oral Suspension 125mg/5ml,44B5411,"Relax Biotech Pvt. Ltd., India",Product did not meet specifications for the Assay test
+2025,23/12/2025,REC/2025/038,Ciprolab 500,Ciprofloxacin,88224842258465984660,"Laboratory & Allied Ltd, Kenya",Brown spots observed on the tablets
+2025,23/12/2025,REC/2025/037,Zimycin,Azithromycin Dihydrate USP equivalent Azithromycin Dihydrate USP equivalent,ZIU022404,"Saga Laboratories, India",Product did not meet the specification for assay test
+2025,02/12/2025,REC/2025/036,Papazyme Tablets,"Papain, Fungal Diastase, and Simethicone",P1024042,"Gepach International, India",Bulging observed in the strip packs
+2025,14/11/2025,REC/2025/035,Cardoz 12.5,Carvedilol 12.5 mg,GBC013001,"Ipca Laboratories Limited, India",Assay results of 94.7% against the specification limit of 95.0% to 105.0% at 24-month time point at storage condition 30°C/75% RH
+2025,07/11/2025,REC/2025/034,Ibuflam Plus Suspension,Ibuprofen and Paracetamol,"0424097, 0824011","Biodeal Laboratories Ltd, Kenya",Failure to comply with the specifications for pH and Assay test for Paracetamol
+2025,28/10/2025,REC/2025/033,Magnesium Sulfate,Magnesium Sulfate 50% W/V,"85055, 86718, 88683, 88688, 88690, 89181, 89182, and 89183","Laboratory & Allied Ltd, Kenya",Mislabeling. Dosage strength on the ampoule indicated as 0.5mg/ml instead of 0.5g/ml.
+2025,30/09/2025,REC/2025/032,Alimox Dry Syrup,Amoxicillin,01599AMS,"Sphinx Pharmaceuticals Ltd, Kenya","Light yellow to brown powder observed, with brown particles adhering to the base of the bottle."
+2025,30/09/2025,REC/2025/031,Cloxam Dry Syrup,Cloxacillin/Ampicillin,00066CXS,"Sphinx Pharmaceuticals Ltd, Kenya",Brown particles were observed dispersed throughout the powder and at the base of the bottle.
+2025,22/08/2025,REC/2025/030,Parabuzz,Paracetamol,24GEF041,Globela Pharma Pvt. Ltd,Tablets colour change to brown
+2025,20/08/2025,REC/2025/029,Steramine,Betamethasone/ Dexchlorpheniramine Maleate,"BPL783A, BPL409A",Biopharma Ltd,Failure to comply with identification by HPLC test for betamethasone and assay for both betamethasone and dexchlorpheniramine Maleate
+2025,20/08/2025,REC/2025/028,Paradol,Paracetamol,"240831, 240181, 240158, 230215, 240051, 230172 and 240213",Dinlas Pharma,Particulate matter in solution
+2025,20/08/2025,REC/2025/026,Izzithree,Azithromycin 200mg/5ml,BPL 539A,Biopharma Ltd,"An off-white to light yellow viscous mobile homogenous suspension was observed against the specification of an orange, viscous mobile homogenous suspension"
+2025,17/07/2025,REC/2025/025,Zolas Suspension,Albendazole 200mg/5ml,230359,"Dinlas Pharma (Africa) Ltd, Kenya",Failure to comply with deliverable volume test
+2025,17/07/2025,REC/2025/024,Zeondern Injection,Ondansetron 8mg/4ml,ZOU-2401,"Systochem Laboratories Limited, India",Failure to comply with the specifications of physical appearance
+2025,17/07/2025,REC/2025/023,Cardipril 5 Tablets,Enalapril 5mg,T24A016,"Zain Pharma Ltd, Kenya",Failure to comply with the specifications for hardness test
+2025,15/07/2025,REC/2025/022,Phenytoin Tablets,Phenytoin 100mg,0724016,"Biodeal Laboratories Ltd, Kenya",Color change of the tablets
+2025,09/07/2025,REC/2025/021,Para-Denk 250 Suppos and Para-Denk 125 Suppos,Paracetamol 250mgandParacetamol 125mg Suppository,"28426, 28579, 26906, 27286, 27339, 27342, 27846, 27836, 28422, 28424, 28420, 28458, 27670, 27672, 27291, 27343, 27674, 27821, 27822","RubiePharm Arzneimittel GmbH, Germany",Packaging damages (leakages) of blisters
+2025,10/06/2025,REC/2025/020,Mara Moja Tablets,"Paracetamol BP 20mg, Caffeine Anhydrous BP 50mg, Aspirin BP 40 mg",2311024 and 2406159,"Beta Healthcare International Ltd, Kenya",Failure to comply with the specifications for the Assay test
+2025,03/06/2025,REC/2025/019,Ibuflam Plus Suspension,Ibuprofen and Paracetamol,0623005,"Biodeal Laboratories Ltd, Kenya",Failure to comply with the specifications for pH and Assay tests
+2025,15/05/2025,REC/2025/018,Topfoliferum Tablets,Ferrous Sulphate+ Folic Acid,"240105, 240415","Liaoning Huarui Union Pharmaceutical Co., Ltd, China",Failure to comply with the specifications for the Assay test
+2025,24/04/2025,REC/2025/017,S-prazo Capsules,Esomeprazole 40mg Capsules,SPZ404,"Medico Remedies Limited, India","Product mix-up involving S-Prazo Batch No. SPZ404, wherein it was detected and confirmed that a strip of Levofloxacin 500mg tablet was found in a pack of Esomeprazole 40mg Capsules."
+2025,24/04/2025,REC/2025/016,Lumidol Injection,Paracetamol 1000mg/100ml,"CM4594007, CM4594008, CM4594009",KamlaAmrut Pharmaceutical LLP India,Color change of the product to black
+2025,24/04/2025,REC/2025/015,Paragen Injection,Paracetamol 1% W/V,K4290027,KamlaAmrut Pharmaceutical LLP India,Color change of the product to black
+2025,24/04/2025,REC/2025/014,Blink Injection,Paracetamol 1% W/V,"CS4594005, CS4594004",KamlaAmrut Pharmaceutical LLP India,Color change of the product to black
+2025,03/04/2025,REC/2025/013,Dawaflox DPS,Flucloxacillin 125mg/5ml,"2301119, 2401188","Dawa Ltd, Kenya",Failure to comply with assay identified during long-term stability studies
+2025,03/04/2025,REC/2025/012,Stopacid Suspension,Aluminium Hydroxide BP 120mg & Magnesium Trisilicate BP 250mg,"2407199, 2407200, 2407201, 2407202","Dawa Ltd, Kenya",Failure to comply with the release assay limits of Aluminium Hydroxide (95%-105%)
+2025,03/04/2025,REC/2025/011,Medopress Tablets,Methyldopa 250mg,"221137, 230051, 230093, 230165","Cosmos Ltd, Kenya",Color change of the tablets
+2025,21/03/2025,REC/2025/010,Oxytocin Injection,Oxytocin BP 10IU/ML,MOEIE-003,Laborate Pharmaceuticals India Ltd,Failure to comply with the specifications on related substances test
+2025,19/03/2025,REC/2025/009,Topfoliferum Tablets,Ferrous Sulphate+ Folic Acid,240726,"Liaoning Huarui Union Pharmaceutical co. Ltd, China","Color change, with some tablets becoming darker with black particles"
+2025,11/03/2025,REC/2025/008,Betamol Tablets,Paracetamol 500mg,01215PT,"Sphinx Pharmaceuticals Ltd, Kenya",Out-of-Specification results on uniformity of weight
+2025,11/03/2025,REC/2025/007,Medzol Tablets,Metronidazole 400mg,230940,"Shanxi Xinyitong Pharmaceutical Co., Ltd, China",Out-of-Specification results on uniformity of weight
+2025,11/03/2025,REC/2025/006,Metrosim Tablets,Metronidazole 200mg,003835,Africure Pharmaceuticals India Private Limited,Failure to comply with the specifications on friability test
+2025,10/03/2025,REC/2025/005,Shaltoux Herbal Cough Syrup,"Diphenhydramine Hydrochloride, Ammonium Chloride, Sodium Citrate & Menthol",24011,"Gopaldas Visram & Company Limited, India",Market complaints of presence particulate matter in the product
+2025,07/02/2025,REC/2025/004,APC Tablets,"Paracetamol 250mg, Aspirin 150mg & Caffeine 30mg",1223038,"Biodeal Laboratories Ltd, Kenya",Out-of-Specification results on uniformity of weight
+2025,16/01/2025,REC/2025/003,TBcide,Sodium Hypochlorite Solution,24052101A2 and 24052201A2,Kenya Medical Research Institute (KEMRI),Lack of the characteristic color and smell and formation of brown crystals on the product packaging.
+2025,06/01/2025,REC/2025/002,Flurasted 500 Injection,5-Fluorouracil,HHP24017,"Halsted Pharma Private Limited, India",Detection of particles in the product.
+2025,03/01/2025,REC/2025/001,Bisotrol Tablets,Bisoprolol 5mg,JJI023002,"Ipca Laboratories Limited, India",Out of specification (OOS) results observed in the Related Substances test of Bisotrol – 5 Tablet at 12M on 30C/75% stability conditions.
